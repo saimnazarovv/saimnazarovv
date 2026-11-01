@@ -68,3 +68,21 @@ I build digital products by combining web technologies and artificial intelligen
 ---
 
 *Building intelligent products. Turning ideas into reality.*
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=saimnazarovv&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimnazarovv&layout=compact&theme=transparent&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
