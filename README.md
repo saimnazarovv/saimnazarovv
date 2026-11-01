@@ -1,19 +1,55 @@
-# Hi, I'm Elyor Saimnazarov 👋
+# Hey, I'm Elyor Saimnazarov 👋
 
-### Startup Founder | Software Developer
+### Startup Founder | Web Developer | AI Developer
 
-I build digital products, explore new technologies, and turn ideas into real-world solutions.
+I build digital products by combining web technologies and artificial intelligence. I enjoy turning ideas into practical applications, intelligent tools, and scalable solutions.
 
-- 🚀 Building and developing digital products
-- 💡 Interested in startups, software engineering, and product development
-- 🌱 Continuously learning and improving my development skills
-- 🎯 Focused on creating useful products and solving real problems
+---
 
-### 🛠️ Technologies & Tools
+### 🚀 About Me
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend & Database:** Supabase
-- **Tools:** Git, GitHub
+- 💻 Building modern websites and web applications
+- 🤖 Developing AI-powered applications and solutions
+- 🧠 Exploring Prompt Engineering and AI tools
+- ⚡ Creating AI automation workflows and AI agents
+- 🔌 Integrating AI APIs into real-world products
+- 🎯 Focused on startups, innovation, and product development
+
+---
+
+### 💻 Tech Stack
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs" />
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,supabase" />
+</p>
+
+**Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+---
+
+### 🤖 Artificial Intelligence
+
+- AI Tools & Integration
+- Prompt Engineering
+- AI-powered Web & App Development
+- AI Automation
+- AI API Integration
+- AI Agent Development
+- Chatbot Development
+
+---
 
 ### 🚀 Featured Projects
 
@@ -21,12 +57,14 @@ I build digital products, explore new technologies, and turn ideas into real-wor
 - **Bibikhan** — Web development project.
 - **Ziloluz** — Web development project.
 
+---
+
 ### 🌐 Connect With Me
 
 - **Portfolio:** [Elyor's Portfolio](https://elyorportfoilo.netlify.app)
 - **Instagram:** [@saimnazarovv](https://www.instagram.com/saimnazarovv/)
-- **Telegram:** [Contact me](https://t.me/saimnazarovv)
+- **Telegram:** [Contact Me](https://t.me/saimnazarovs)
 
 ---
 
-*Building ideas into products, one commit at a time.*
+*Building intelligent products. Turning ideas into reality.*
