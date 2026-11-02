@@ -69,19 +69,46 @@ I combine modern web technologies, artificial intelligence, and automation to tu
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  <a href="https://mathaql.uz">
+    <img src="https://img.shields.io/badge/MATHAQL-Visit%20Website-7C5CFF?style=for-the-badge" alt="MathAql" />
+  </a>
+  <a href="https://bibikhan.uz">
+    <img src="https://img.shields.io/badge/BIBIKHAN-Visit%20Website-0EA5E9?style=for-the-badge" alt="Bibikhan" />
+  </a>
+  <a href="https://ziloluz.netlify.app">
+    <img src="https://img.shields.io/badge/ZILOLUZ-Visit%20Website-16A34A?style=for-the-badge" alt="Ziloluz" />
+  </a>
+</p>
+
 ### 🧮 MathAql
-An educational platform focused on making mathematics more accessible through interactive digital learning.
+**Interactive Mathematics Learning Platform**
+
+An educational platform designed to make mathematics more accessible, engaging, and interactive through digital learning experiences.
+
+- 🎯 Interactive mathematics learning
+- 📚 Educational content and practice
+- 🚀 Learning through gamification
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-7C5CFF?style=flat-square&logo=googlechrome&logoColor=white)](https://mathaql.uz)
+
+---
 
 ### 🌐 Bibikhan
-A web development project focused on building a modern digital experience.
+**Web Development Project**
+
+A digital project focused on creating a modern web experience with a clean and accessible interface.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)](https://bibikhan.uz)
+
+---
 
 ### 💻 Ziloluz
-A web development project.
+**Web Development Project**
 
----
----
+A web development project showcasing digital product development and modern website design.
 
----
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-16A34A?style=flat-square&logo=googlechrome&logoColor=white)](https://ziloluz.netlify.app)
 
 ## 📊 GitHub Analytics
 
