@@ -93,7 +93,11 @@ A web development project.
 </p>
 
 ---
+## 🏆 GitHub Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saimnazarovv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies" />
+</p>
 ## 🌐 Connect With Me
 
 <p align="center">
