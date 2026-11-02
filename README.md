@@ -1,17 +1,36 @@
 # 👋 Hey, I'm Elyor Saimnazarov
 
-### Startup Founder · Web Developer · AI Developer
+<!-- HERO SECTION -->
+
+<h1 align="center">Hey, I'm Elyor Saimnazarov 👋</h1>
+
+<h3 align="center">
+  Startup Founder | Web Developer | AI Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Digital+Products;Developing+AI-Powered+Applications;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=I+Build+Digital+Products;I+Develop+AI-Powered+Applications;I+Turn+Ideas+Into+Reality;I+Create+Scalable+Web+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://elyorportfoilo.netlify.app">Portfolio</a> ·
-  <a href="https://www.instagram.com/saimnazarovv/">Instagram</a> ·
-  <a href="https://t.me/saimnazarovs">Telegram</a>
+  <a href="https://elyorportfoilo.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.instagram.com/saimnazarovv/">
+    <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/saimnazarovs">
+    <img src="https://img.shields.io/badge/Telegram-Contact_Me-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saimnazarovv&label=PROFILE+VIEWS&color=2563EB&style=flat-square" alt="Profile Views" />
+</p>
+
+<!-- END HERO SECTION -->
+
+---
 ---
 
 ## 🚀 About Me
