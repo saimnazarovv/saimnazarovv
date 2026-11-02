@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a startup founder and developer passionate about building intelligent digital products.
+I'm a startup founder and developer passionate about building intelligent digital products. 
 
 I combine modern web technologies, artificial intelligence, and automation to turn ideas into practical applications.
 
