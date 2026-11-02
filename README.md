@@ -81,15 +81,33 @@ A web development project.
 ---
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-liart-xi-16.vercel.app/api?username=saimnazarovv&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats-liart-xi-16.vercel.app/api/top-langs/?username=saimnazarovv&layout=compact&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-liart-xi-16.vercel.app/api?username=saimnazarovv&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats-liart-xi-16.vercel.app/api/top-langs/?username=saimnazarovv&layout=compact&theme=transparent&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saimnazarovv&theme=transparent&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=saimnazarovv&theme=transparent&hide_border=true" height="160" />
+</p>
+
+---
+
+<h2 align="left">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://elyorportfoilo.netlify.app">Portfolio</a> ·
+  <a href="https://www.instagram.com/saimnazarovv/">Instagram</a> ·
+  <a href="https://t.me/saimnazarovs">Telegram</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent products. Turning ideas into reality.</i>
 </p>
 ## 🌐 Connect With Me
 
