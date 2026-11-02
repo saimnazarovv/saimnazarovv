@@ -142,35 +142,6 @@ A web development project showcasing digital product development and modern webs
 
 ---
 
----
-
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=saimnazarovv&theme=tokyonight&column=7&margin-w=10&no-frame=true&no-bg=true"
-    width="100%"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saimnazarovv&theme=github-compact"
-    width="100%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
