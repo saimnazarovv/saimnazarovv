@@ -79,7 +79,18 @@ A web development project focused on building a modern digital experience.
 A web development project.
 
 ---
+---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-liart-xi-16.vercel.app/api?username=saimnazarovv&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats-liart-xi-16.vercel.app/api/top-langs/?username=saimnazarovv&layout=compact&theme=transparent&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saimnazarovv&theme=transparent&hide_border=true" width="100%" />
+</p>
 ## 🌐 Connect With Me
 
 <p align="center">
