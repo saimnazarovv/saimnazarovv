@@ -80,18 +80,11 @@ A web development project.
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats-liart-xi-16.vercel.app/api?username=saimnazarovv&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats-liart-xi-16.vercel.app/api/top-langs/?username=saimnazarovv&layout=compact&theme=transparent&hide_border=true" height="180" alt="Most Used Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saimnazarovv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saimnazarovv&theme=transparent&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
-</p>
-
----
 
 ## 🏆 GitHub Achievements
 
