@@ -56,7 +56,7 @@ I combine modern web technologies, artificial intelligence, and automation to tu
 <p>
   <img src="https://img.shields.io/badge/AI%20Development-111827?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge&logo= zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge&logo=zapier&logoColor=white" />
 </p>
 
 - AI Tools & Integration
@@ -66,8 +66,6 @@ I combine modern web technologies, artificial intelligence, and automation to tu
 - AI API Integration
 - AI Agent Development
 - Chatbot Development
-
----
 
 ## 🚀 Featured Projects
 
