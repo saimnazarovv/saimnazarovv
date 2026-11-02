@@ -95,21 +95,6 @@ A web development project.
 </p>
 
 ---
-
-<h2 align="left">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://elyorportfoilo.netlify.app">Portfolio</a> ·
-  <a href="https://www.instagram.com/saimnazarovv/">Instagram</a> ·
-  <a href="https://t.me/saimnazarovs">Telegram</a>
-</p>
-
----
-
-<p align="center">
-  <i>Building intelligent products. Turning ideas into reality.</i>
-</p>
----
 ---
 
 <h2 align="left">🌐 Connect With Me</h2>
