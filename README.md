@@ -73,18 +73,7 @@ I build digital products by combining web technologies and artificial intelligen
 
 ---
 
-### 📊 GitHub Statistics
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=saimnazarovv&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimnazarovv&layout=compact&theme=transparent&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats-liart-xi-16.vercel.app/api?username=saimnazarovv&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats-liart-xi-16.vercel.app/api/top-langs/?username=saimnazarovv&layout=compact&theme=transparent&hide_border=true" height="180" />
 </p>
