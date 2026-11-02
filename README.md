@@ -110,6 +110,7 @@ A web development project.
   <i>Building intelligent products. Turning ideas into reality.</i>
 </p>
 ---
+---
 
 <h2 align="left">🌐 Connect With Me</h2>
 
@@ -123,17 +124,4 @@ A web development project.
 
 <p align="center">
   <i>Building intelligent products. Turning ideas into reality.</i>
-</p>
-
----
-
-<p align="center">
-  <i>Building intelligent products. Turning ideas into reality.</i>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" width="100%" alt="Footer" />
 </p>
