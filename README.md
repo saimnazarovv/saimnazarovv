@@ -80,36 +80,18 @@ A web development project.
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saimnazarovv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saimnazarovv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies" />
-</p>
-
----
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saimnazarovv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies" />
-</p>
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://elyorportfoilo.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/saimnazarovv/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://t.me/saimnazarovs">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <a href="https://elyorportfoilo.netlify.app">Portfolio</a> ·
+  <a href="https://www.instagram.com/saimnazarovv/">Instagram</a> ·
+  <a href="https://t.me/saimnazarovs">Telegram</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent products. Turning ideas into reality.</i>
 </p>
 
 ---
